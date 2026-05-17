@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://onairmediauk.github.io/readme-2xihim/sitemap.xml
